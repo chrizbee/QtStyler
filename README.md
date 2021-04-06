@@ -11,7 +11,7 @@ cd YourApplication
 git clone https://github.com/chrizbee/QtStyler
 ```
 
-Additionally the project needs to be icluded from `YourApplication.pro`.
+Additionally the project needs to be included from `YourApplication.pro`.
 
 ```qmake
 include(QtStyler/qtstyler.pri)
